@@ -17,5 +17,6 @@
 	<classpathentry combineaccessrules="false" kind="src" path="/adi_tests"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/adig_tests"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/i_ldap"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/models_core"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
