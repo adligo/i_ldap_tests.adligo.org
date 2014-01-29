@@ -2,3 +2,6 @@ Date,Package,Coverage,Instructions
 5/13/2013,org.adligo.i.ldap,48.6%,1296
 5/13/2013,org.adligo.i.ldap.models,73%,2625
 5/13/2013,org.adligo.i.ldap.models.converters,100.0%,238
+1/30/2014,org.adligo.i.ldap,48.6%,1296
+1/30/2014,org.adligo.i.ldap.models,73%,2625
+1/30/2014,org.adligo.i.ldap.models.converters,100.0%,238
