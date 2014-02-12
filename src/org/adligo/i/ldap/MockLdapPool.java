@@ -3,12 +3,12 @@ package org.adligo.i.ldap;
 import org.adligo.i.ldap.ReadWriteLdapConnection;
 import org.adligo.i.ldap.ReadWriteLdapConnectionFactory;
 import org.adligo.i.ldap.models.LdapConnectionFactoryConfig;
-import org.adligo.i.log.client.Log;
-import org.adligo.i.log.client.LogFactory;
+import org.adligo.i.log.shared.Log;
+import org.adligo.i.log.shared.LogFactory;
 import org.adligo.i.pool.I_Pool;
 import org.adligo.i.pool.Pool;
 import org.adligo.i.pool.PoolConfigurationMutant;
-import org.adligo.models.core.client.InvalidParameterException;
+import org.adligo.models.core.shared.InvalidParameterException;
 
 public class MockLdapPool {
 	private static final Log log = LogFactory.getLog(MockLdapPool.class);

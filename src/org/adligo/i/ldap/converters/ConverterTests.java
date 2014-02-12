@@ -13,7 +13,7 @@ import org.adligo.i.ldap.converters.FloatAttributeConverter;
 import org.adligo.i.ldap.converters.IntegerAttributeConverter;
 import org.adligo.i.ldap.converters.LongAttributeConverter;
 import org.adligo.i.ldap.converters.ShortAttributeConverter;
-import org.adligo.i.util.client.DateTime;
+import org.adligo.i.util.shared.DateTime;
 import org.adligo.tests.ATest;
 
 public class ConverterTests extends ATest {
