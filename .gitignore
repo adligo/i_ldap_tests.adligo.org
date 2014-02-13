@@ -4,4 +4,6 @@ classes/
 eldap_dir/
 classes_e/
 bin/
+test_reports/
+i_ldap_tests*.jar
 
