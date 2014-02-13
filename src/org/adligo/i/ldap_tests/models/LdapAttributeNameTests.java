@@ -1,4 +1,4 @@
-package org.adligo.i.ldap.models;
+package org.adligo.i.ldap_tests.models;
 
 import org.adligo.i.ldap.models.CoreAttributes;
 import org.adligo.tests.ATest;

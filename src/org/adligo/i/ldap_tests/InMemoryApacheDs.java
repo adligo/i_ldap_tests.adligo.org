@@ -1,4 +1,4 @@
-package org.adligo.i.ldap;
+package org.adligo.i.ldap_tests;
 
 import java.io.File;
 import java.net.URI;

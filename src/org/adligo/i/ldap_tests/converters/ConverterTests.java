@@ -1,4 +1,4 @@
-package org.adligo.i.ldap.converters;
+package org.adligo.i.ldap_tests.converters;
 
 import java.math.BigDecimal;
 import java.math.BigInteger;

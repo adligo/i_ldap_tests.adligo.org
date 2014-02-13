@@ -1,4 +1,4 @@
-package org.adligo.i.ldap.models;
+package org.adligo.i.ldap_tests.models;
 
 import java.math.BigDecimal;
 import java.math.BigInteger;

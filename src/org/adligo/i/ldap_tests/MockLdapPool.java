@@ -1,4 +1,4 @@
-package org.adligo.i.ldap;
+package org.adligo.i.ldap_tests;
 
 import org.adligo.i.ldap.ReadWriteLdapConnection;
 import org.adligo.i.ldap.ReadWriteLdapConnectionFactory;
