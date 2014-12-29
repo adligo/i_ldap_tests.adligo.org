@@ -2,21 +2,21 @@
 <classpath>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/i_log"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/i_pool"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/i_util"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/jse_util"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/i_log.adligo.org"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/i_pool.adligo.org"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/i_util.adligo.org"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/jse_util.adligo.org"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/tests"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
 	<classpathentry kind="var" path="MVN_REPO/org/apache/directory/server/apacheds-all/2.0.0-M10/apacheds-all-2.0.0-M10.jar" sourcepath="/apache_ds_core"/>
 	<classpathentry kind="var" path="MVN_REPO/org/slf4j/slf4j-log4j12/1.7.5/slf4j-log4j12-1.7.5.jar"/>
 	<classpathentry kind="var" path="MVN_REPO/org/slf4j/slf4j-api/1.7.5/slf4j-api-1.7.5.jar"/>
 	<classpathentry kind="var" path="MVN_REPO/log4j/log4j/1.2.17/log4j-1.2.17.jar"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/i_ldap"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/models_core"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/i_adi"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/i_adi_tests"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/i_adig"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/i_adig_tests"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/i_ldap.adligo.org"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/models_core.adligo.org"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/i_adi.adligo.org"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/i_adi_tests.adligo.org"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/i_adig.adligo.org"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/i_adig_tests.adligo.org"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
