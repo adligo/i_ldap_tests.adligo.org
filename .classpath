@@ -6,7 +6,7 @@
 	<classpathentry combineaccessrules="false" kind="src" path="/i_pool.adligo.org"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/i_util.adligo.org"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/jse_util.adligo.org"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/tests"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/tests.adligo.org"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
 	<classpathentry kind="var" path="MVN_REPO/org/apache/directory/server/apacheds-all/2.0.0-M10/apacheds-all-2.0.0-M10.jar" sourcepath="/apache_ds_core"/>
 	<classpathentry kind="var" path="MVN_REPO/org/slf4j/slf4j-log4j12/1.7.5/slf4j-log4j12-1.7.5.jar"/>

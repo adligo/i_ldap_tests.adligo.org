@@ -13,6 +13,7 @@
 	   	<lns:library>jboss-tran</lns:library>
 	   	<lns:library>hsqldb</lns:library>
         <lns:project>i_adi.adligo.org</lns:project>
+        <lns:project>i_ldap.adligo.org</lns:project>
         <lns:project>i_log.adligo.org</lns:project>
         <lns:project>i_util.adligo.org</lns:project>
         <lns:project>i_util_tests.adligo.org</lns:project>
