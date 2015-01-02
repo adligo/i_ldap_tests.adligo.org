@@ -1,5 +1,6 @@
 test_failure.properties
 test_output/
+/build/
 classes/
 eldap_dir/
 classes_e/
