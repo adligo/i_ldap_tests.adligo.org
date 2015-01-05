@@ -1,10 +1,10 @@
 test_failure.properties
-test_output/
+/test_output/
 /build/
-classes/
-eldap_dir/
+/classes/
+/eldap_dir/
 classes_e/
-bin/
-test_reports/
+/bin/
+/test_reports/
 i_ldap_tests*.jar
 
