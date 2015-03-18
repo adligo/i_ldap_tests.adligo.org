@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tns:fabricate_project xmlns:tns="http://www.adligo.org/fabricate/xml/io_v1/project_v1_0.xsd" 
+<pns:fabricate_project xmlns:pns="http://www.adligo.org/fabricate/xml/io_v1/project_v1_0.xsd" 
     xmlns:lns="http://www.adligo.org/fabricate/xml/io_v1/library_v1_0.xsd" 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" >
-    <tns:stages>
-        <tns:stage name="jar" />
-    </tns:stages>
-    <tns:dependencies>
+    <pns:dependencies>
     	<lns:library>apacheds</lns:library>
     	<lns:library>hibernate</lns:library>
     	<lns:library>jboss-tran</lns:library>
@@ -13,17 +10,20 @@
     	<lns:library>jpa</lns:library>
 	   	<lns:library>log4j</lns:library>
 	   	<lns:library>hsqldb</lns:library>
-        <lns:project>i_adi.adligo.org</lns:project>
-        <lns:project>i_adi_tests.adligo.org</lns:project>
-        <lns:project>i_adig.adligo.org</lns:project>
-        <lns:project>i_adig_tests.adligo.org</lns:project>
-        <lns:project>i_ldap.adligo.org</lns:project>
-        <lns:project>i_log.adligo.org</lns:project>
-        <lns:project>i_pool.adligo.org</lns:project>
-        <lns:project>i_util.adligo.org</lns:project>
-        <lns:project>i_util_tests.adligo.org</lns:project>
-        <lns:project>jse_util.adligo.org</lns:project>
-        <lns:project>models_core.adligo.org</lns:project>
-        <lns:project>tests.adligo.org</lns:project>
-    </tns:dependencies>
- </tns:fabricate_project>
+        <pns:project>i_adi.adligo.org</pns:project>
+        <pns:project>i_adi_tests.adligo.org</pns:project>
+        <pns:project>i_adig.adligo.org</pns:project>
+        <pns:project>i_adig_tests.adligo.org</pns:project>
+        <pns:project>i_ldap.adligo.org</pns:project>
+        <pns:project>i_log.adligo.org</pns:project>
+        <pns:project>i_pool.adligo.org</pns:project>
+        <pns:project>i_util.adligo.org</pns:project>
+        <pns:project>i_util_tests.adligo.org</pns:project>
+        <pns:project>jse_util.adligo.org</pns:project>
+        <pns:project>models_core.adligo.org</pns:project>
+        <pns:project>tests.adligo.org</pns:project>
+    </pns:dependencies>
+    <pns:stages>
+        <pns:stage name="jar" />
+    </pns:stages>
+ </pns:fabricate_project>
